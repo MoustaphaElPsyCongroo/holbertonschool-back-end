@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """Fetch data from an api and display it in formatted form"""
-from sys import argv
 import requests
+from sys import argv
 
 
 if __name__ == '__main__':
