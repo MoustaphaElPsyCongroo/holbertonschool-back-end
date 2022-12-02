@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 """Fetch data from an api and export it to JSON"""
+import json
 import requests
 from sys import argv
-import json
 
 
 if __name__ == '__main__':
